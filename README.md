@@ -1,7 +1,7 @@
 # stevemac8391-lang.github.io
 Description: Steve Mathew - Data Science Portfolio 
 Steve Mathew - Data Science Portfolio
-**Automotive Engineer (8yrs Simulation/Test) → Energy Data Analyst (MSc 2026)**
+**Automotive Engineer (8yrs Simulation/Test) → Data Analyst/Scientist (MSc 2026)**
 
 ## **🏆 FLAGSHIP PROJECT**
 | Project | Description | Status | Tech |
